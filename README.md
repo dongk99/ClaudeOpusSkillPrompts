@@ -5,3 +5,5 @@ Might look like jailbreak prompts; they kind of are, but it's designed to make L
 https://arxiv.org/html/2507.22171v2
 https://www.anthropic.com/research/emotion-concepts-function
 
+Author's update: turns out gamifying serious stuff has consequences like LLMs not reading files sequentially.
+Well, that was a good run.
