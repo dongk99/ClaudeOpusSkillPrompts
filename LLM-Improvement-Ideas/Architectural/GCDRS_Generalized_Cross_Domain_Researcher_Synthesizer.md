@@ -1,6 +1,7 @@
 
 
 =========================CONSULATAION_STAGE=========================
+
 PREREQUISITE SKILL MODULE - SCALE_BASED_REASONING - LOAD MODULE (but do NOT read) before starting. Recallizer (for project viewing)
 PREREQUISITE FILE (ask user for files where relevant in which it is a depenency)
 (examples, but not limited to: performance evenlope, custom datasheet, previous code projects, 
